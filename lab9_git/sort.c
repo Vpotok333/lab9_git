@@ -11,9 +11,15 @@ void bubble_sort(int size, int arr[size]) {
     //коментарий новый
 }
 //ещё раз добавили
+<<<<<<< HEAD
 
 int main(){
     int a[] = {4, 2, 0};
     bubble_sort(a, 3);
+=======
+int main(){
+    int a[]={4,2};
+    bubble_sort(a,3);
+>>>>>>> mybranch
     return 0;
 }
