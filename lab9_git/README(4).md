@@ -19,3 +19,4 @@
 10-14 ![alt text](image(na_4)/image-16.png) - git diff показывает, в файле greeting.txt были изменения
 15-16 ![alt text](image(na_4)/image-17.png) - удалили ветку и соединили главную и mybranch.
 17 ![alt text](image(na_4)/image-18.png) коммит сделанный в новой(удаленной уже) ветке перешел на ветку mybranch
+18-19 ![alt text](image(na_4)/image-19.png) - находимся на main(в ней есть все файлы из mybranch)
