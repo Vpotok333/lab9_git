@@ -11,3 +11,8 @@ void bubble_sort(int size, int arr[size]) {
     //коментарий новый
 }
 //ещё раз добавили
+int main(){
+    int a[]={4,2};
+    bubble_sort(a,3);
+    return 0;
+}
